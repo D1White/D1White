@@ -1,16 +1,29 @@
-### Hi there 👋
+## Konnichiwa 👋
 
-<!--
-**D1White/D1White** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a frontend react developer
+---
+## My skills:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+* HTML5 & CSS3
+* Javascript (ES6+)
+* ReactJS
+* React Redux
+* React Router
+* SCSS
+* Gulp
+### Backend
+* NodeJS
+* MongoDB / Fauna / Cloud Firestore
+* REST API
+### Other skills
+* Git / GitHub
+* Figma / Adobe Photoshop / Avocode
+* npm
+* Axios
+* JSON
+* Firebase
+---
+## 📫 How to reach me: 
+*  [Mail](mailto:danilo.bilyi@gmail.com)
+*  [Telegarm](https://t.me/d_white)
