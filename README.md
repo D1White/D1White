@@ -1,7 +1,7 @@
 ## Konnichiwa 👋
 
 ## I'm a frontend react developer
----
+
 ## My skills:
 
 ### Frontend
